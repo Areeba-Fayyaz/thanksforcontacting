@@ -1,0 +1,25 @@
+h1 {
+	font-family: monospace;
+	font-weight: bold;
+	color: white;
+}
+#p {
+	font-size: 1.2rem;
+	font-family: monospace;
+}
+
+#cardheader {
+	background: url(contactusimg.jpg) no-repeat center center/cover;
+	opacity: 0.8;
+}
+#button {
+	font-family: monospace;
+	margin-bottom: 10px;
+}
+.card {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#cardrow {
+	justify-content: center;
+}
